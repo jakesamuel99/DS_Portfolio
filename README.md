@@ -12,8 +12,6 @@ Data science and analysis portfolio
   </tr>
 </table>
 
-![](https://github.com/jakesamuel99/AdventureWorks_proj/blob/main/images/IODF_sales_dashboard.png)
-![](https://github.com/jakesamuel99/AdventureWorks_proj/blob/main/images/IODF_production_dashboard.png)
 ![](https://github.com/jakesamuel99/AdventureWorks_proj/blob/main/images/IODF_rd_predict.png)
 
 **Overview:**
