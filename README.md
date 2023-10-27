@@ -4,6 +4,10 @@ Data science and analysis portfolio
 
 # [Project 1: Inventory Optimization and Demand Forecasting for Microsoft’s Adventure Works Cycles (2023)](https://github.com/jakesamuel99/AdventureWorks_proj/blob/main/README.md)
 
+![](https://github.com/jakesamuel99/AdventureWorks_proj/blob/main/images/IODF_sales_dashboard.png)
+![](https://github.com/jakesamuel99/AdventureWorks_proj/blob/main/images/IODF_production_dashboard.png)
+![](https://github.com/jakesamuel99/AdventureWorks_proj/blob/main/images/IODF_rd_predict.png)
+
 **Overview:**
 - Created data visualization dashboards for Sales Analysis & Production Analysis in Tableau
 - Utilized complex SQL queries and feature engineering to extract and create valuable production data
