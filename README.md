@@ -4,16 +4,11 @@ Data science and analysis portfolio
 
 # [Project 1: Inventory Optimization and Demand Forecasting for Microsoft’s Adventure Works Cycles (2023)](https://github.com/jakesamuel99/AdventureWorks_proj/blob/main/README.md)
 
-<p align="center">
-  <img src="[image1.jpg](https://github.com/jakesamuel99/AdventureWorks_proj/blob/main/images/IODF_sales_dashboard.png)" width="400" />
-  <img src="[image2.jpg](https://github.com/jakesamuel99/AdventureWorks_proj/blob/main/images/IODF_production_dashboard.png)" width="400" /> 
-</p>
-
 
 <table>
   <tr>
-    <td><img src="https://github.com/jakesamuel99/AdventureWorks_proj/blob/main/images/IODF_sales_dashboard.png" alt="Image 1" width="400"></td>
-    <td><img src="https://github.com/jakesamuel99/AdventureWorks_proj/blob/main/images/IODF_production_dashboard.png" alt="Image 2" width="400"></td>
+    <td><img src="https://github.com/jakesamuel99/AdventureWorks_proj/blob/main/images/IODF_sales_dashboard.png" alt="Image 1" width="500"></td>
+    <td><img src="https://github.com/jakesamuel99/AdventureWorks_proj/blob/main/images/IODF_production_dashboard.png" alt="Image 2" width="500"></td>
   </tr>
 </table>
 
