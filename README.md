@@ -1,6 +1,11 @@
-# Jake_Portfolio
+# Data Scientist
 
-Data science and analysis portfolio
+#### Technical Skills: Python, R-Studio, SQL, Tableau
+
+## Education
+- Maters of Science, Industrial and Systems Engineering: Data Science | Rutgers University (_December 2021_)
+- Bachelors of Science, Mechanical Engineering | Rutgers University (_May 2021_)
+- Concentrations/Minors, Quantitative Economics & Aerospace Engineering | Rutgers University (_May 2021_)
 
 # [Project 1: Inventory Optimization and Demand Forecasting for Microsoft’s Adventure Works Cycles (2023)](https://github.com/jakesamuel99/AdventureWorks_proj/blob/main/README.md)
 
