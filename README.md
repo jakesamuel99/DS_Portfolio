@@ -12,13 +12,12 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/jakesamuel99/AdventureWorks_proj/blob/main/images/IODF_sales_dashboard.png" alt="Image 1" width="500"></td>
+    <td><img src="/Images/IODF_sales_dashboard.png" alt="Image 1" width="500"></td>
     <td><img src="https://github.com/jakesamuel99/AdventureWorks_proj/blob/main/images/IODF_production_dashboard.png" alt="Image 2" width="500"></td>
   </tr>
 </table>
 
-![](https://github.com/jakesamuel99/AdventureWorks_proj/blob/main/images/IODF_rd_predict.png)
-![](/Images/headshot.png)
+![](/Images/IODF_rd_predict.png)
 
 **Overview:**
 - Created data visualization dashboards for Sales Analysis & Production Analysis in Tableau
