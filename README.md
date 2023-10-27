@@ -18,6 +18,7 @@
 </table>
 
 ![](https://github.com/jakesamuel99/AdventureWorks_proj/blob/main/images/IODF_rd_predict.png)
+![](/Images/headshot.png)
 
 **Overview:**
 - Created data visualization dashboards for Sales Analysis & Production Analysis in Tableau
