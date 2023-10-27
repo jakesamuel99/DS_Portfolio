@@ -3,8 +3,8 @@
 #### Technical Skills: Python, R-Studio, SQL, Tableau
 
 ## Education
-- **Master's of Science**, Industrial and Systems Engineering: Data Science | Rutgers University (_December 2021_)
-- **Bachelor's of Science**, Mechanical Engineering | Rutgers University (_May 2021_)
+- **Master's of Science**, Industrial and Systems Engineering: Data Science | Rutgers University (_December 2021_) | 4.0/4.0, Valedictorian
+- **Bachelor's of Science**, Mechanical Engineering | Rutgers University (_May 2021_) | 3.96/4.0, Top 2% of Class
 - **Concentrations/Minors**, Quantitative Economics & Aerospace Engineering | Rutgers University (_May 2021_)
 
 ## [Project 1: Inventory Optimization and Demand Forecasting for Microsoft’s Adventure Works Cycles (2023)](https://github.com/jakesamuel99/AdventureWorks_proj/blob/main/README.md)
