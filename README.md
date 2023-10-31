@@ -42,6 +42,7 @@
 
 ## [Project 2: Optimizing Airbnb Listings (2020)](https://github.com/jakesamuel99/Airbnb_proj/blob/main/README.md)
 
+![](/Images/airbnb_amenities.png)
 
 **Overview:**
 - Analyzed dataset of 74,111 Airbnb listings in major US cities from 2015-2017 to develop actionable recommendations for Airbnb owners/investors to maximize profits by improving listing value
