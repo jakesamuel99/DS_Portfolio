@@ -48,7 +48,6 @@
 - Analyzed dataset of 74,111 Airbnb listings in major US cities from 2015-2017 to develop actionable recommendations for Airbnb owners/investors to maximize profits by improving listing value
 - Executed stepwise linear regression modeling to identify factors most impactful on listing price
 - Employed text mining and K-Means clustering to determine high value amenities
-- Employed text mining and K-Means clustering to determine unique & implementable, high value amenities
 - Led and managed an international, remote team to produce all deliverables within project deadline
 
 
