@@ -3,11 +3,11 @@
 #### Technical Skills: Python, R-Studio, SQL, Tableau
 
 ## Education
-- **Master's of Science**, Industrial and Systems Engineering: Data Science | Rutgers University (_December 2021_) | 4.0/4.0, Valedictorian
-- **Bachelor's of Science**, Mechanical Engineering | Rutgers University (_May 2021_) | 3.96/4.0, Top 2% of Class
-- **Concentrations/Minors**, Quantitative Economics & Aerospace Engineering | Rutgers University (_May 2021_) | Fulfilled all requirements
+- **Master's of Science**, Data Science & Systems Engineering | Rutgers University (_December 2021_) | 4.0/4.0, Valedictorian
+- **Bachelor's of Science**, Aerospace Engineering | Rutgers University (_May 2021_) | 3.96/4.0, Top 2% of Class
+- **Concentrations/Minors**, Quantitative Economics | Rutgers University (_May 2021_) | Fulfilled all requirements
 
-## [Project 1: Inventory Optimization and Demand Forecasting for Microsoft’s Adventure Works Cycles (2023)](https://github.com/jakesamuel99/AdventureWorks_proj/blob/main/README.md)
+## [Project 1: Inventory Optimization and Demand Forecasting for Microsoft’s Adventure Works Cycles](https://github.com/jakesamuel99/AdventureWorks_proj/blob/main/README.md)
 
 
 <table>
@@ -40,7 +40,7 @@
 - Postgres SQL
 
 
-## [Project 2: Optimizing Airbnb Listings (2020)](https://github.com/jakesamuel99/Airbnb_proj/blob/main/README.md)
+## [Project 2: Optimizing Airbnb Listing Value](https://github.com/jakesamuel99/Airbnb_proj/blob/main/README.md)
 
 ![](/Images/airbnb_amenities.png)
 
@@ -48,7 +48,7 @@
 - Analyzed dataset of 74,111 Airbnb listings in major US cities from 2015-2017 to develop actionable recommendations for Airbnb owners/investors to maximize profits by improving listing value
 - Executed stepwise linear regression modeling to identify factors most impactful on listing price
 - Employed text mining and K-Means clustering to determine high value amenities
-- Led and managed an international, remote team to produce all deliverables within project deadline
+- Led and managed an international, remote team of 6 to produce all deliverables within project deadline
 
 
 **Skills Demonstrated:**
