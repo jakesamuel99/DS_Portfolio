@@ -7,8 +7,8 @@
 - **Bachelor's of Science**, Aerospace Engineering | Rutgers University (_May 2021_) | 3.96/4.0, Top 2% of Class
 - **Concentrations/Minors**, Quantitative Economics | Rutgers University (_May 2021_) | Fulfilled all requirements
 
-## [Project 1: Inventory Optimization and Demand Forecasting for Microsoft’s Adventure Works Cycles](https://github.com/jakesamuel99/AdventureWorks_proj/blob/main/README.md)
-
+## [Project 1: Inventory Optimization and Demand Forecasting](https://github.com/jakesamuel99/AdventureWorks_proj/blob/main/README.md)
+Microsoft’s AdventureWorks Cycles Dataset
 
 <table>
   <tr>
@@ -41,7 +41,7 @@
 
 
 ## [Project 2: Optimizing Airbnb Listing Value](https://github.com/jakesamuel99/Airbnb_proj/blob/main/README.md)
-
+Semester-Long Master's Project
 ![](/Images/airbnb_amenities.png)
 
 **Overview:**
