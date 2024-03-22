@@ -42,6 +42,7 @@ Microsoft’s AdventureWorks Cycles Dataset
 
 ## [Project 2: Optimizing Airbnb Listing Value](https://github.com/jakesamuel99/Airbnb_proj/blob/main/README.md)
 Semester-Long Master's Project
+
 ![](/Images/airbnb_amenities.png)
 
 **Overview:**
